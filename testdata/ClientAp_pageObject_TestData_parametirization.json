@@ -1,0 +1,20 @@
+[{
+   "username_input" : "santhiyavect@gmail.com",
+   "password_input" : "Password@123",
+   "productName" :  "ZARA COAT 3",
+   "CcNumber" : "4542 9936 9297 2263",
+   "CvvCode" : "341",
+   "expiry_Month" : "05",
+   "expiry_Date" : "15"
+},
+{
+   "username_input" : "sandyyy123@gmail.com",
+   "password_input" : "Password@1234",
+   "productName" :  "ADIDAS ORIGINAL",
+   "CcNumber" : "4542 9957 9297 2263",
+   "CvvCode" : "154",
+   "expiry_Month" : "06",
+   "expiry_Date" : "20"
+}
+
+]
