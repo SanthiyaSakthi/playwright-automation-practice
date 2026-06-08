@@ -10,7 +10,7 @@ await page.route("**/*.{jpg,png,jpeg}", route => route.abort());
 
   const userName = page.locator("input#username");
   const Password = page.locator("[type='password']");
-  const signIn = page.locator("#signInBtn");
+  const signIn   = page.locator("#signInBtn");
   const cardTitles = page.locator(".card-body a");
   page.on('request', request => console.log('>>', request.method(), request.url()));
   page.on('response', response => console.log('<<', response.status(), response.url()));
