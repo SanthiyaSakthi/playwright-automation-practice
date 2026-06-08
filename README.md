@@ -10,6 +10,9 @@ Hands-on Playwright automation exercises and learning projects.
 - API Testing
 - Test Execution
 - Playwright Best Practices
+- Page Object Model
+- Reporting
+- Excel Utils
 
 ## Tech Stack
 - Playwright
